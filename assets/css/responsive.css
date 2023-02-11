@@ -1,0 +1,701 @@
+@media only screen and (min-width: 1600px) and (max-width: 1759.98px) {
+  .indurance-nav-right {
+    width: 30%;
+  }
+}
+@media only screen and (min-width: 1400px) and (max-width: 1599.98px) {
+  .indurance-nav-right {
+    width: 28%;
+  }
+}
+@media only screen and (min-width: 1200px) and (max-width: 1399.98px) {
+  .indurance-nav-right {
+    width: 27%;
+  }
+  .news-section .next-arrow,
+  .news-section .prev-arrow {
+    visibility: hidden;
+    opacity: 0;
+  }
+  .news-section:hover .next-arrow,
+  .news-section:hover .prev-arrow {
+    visibility: visible;
+    opacity: 1;
+  }
+  .news-section .next-arrow {
+    right: 0;
+  }
+  .news-section .prev-arrow {
+    left: 0;
+  }
+  .services-section:hover .next-arrow,
+  .services-section:hover .prev-arrow {
+    visibility: visible;
+    opacity: 1;
+  }
+  .services-section .next-arrow {
+    right: 0;
+  }
+  .services-section .prev-arrow {
+    left: 0;
+  }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199.98px) {
+  .indurance-nav-right {
+    width: 27%;
+  }
+  .services-section .next-arrow {
+    right: -45px;
+  }
+  .services-section .prev-arrow {
+    left: -45px;
+  }
+  .videos-section:before {
+    right: -10%;
+    width: 75%;
+  }
+  .indurance-item-05 .item-05-image {
+    height: 240px;
+  }
+  .news-section .next-arrow {
+    right: -45px;
+  }
+  .news-section .prev-arrow {
+    left: -45px;
+  }
+  .header-home-03 .navbar-area.nav-style-02 .nav-container {
+    width: 92%;
+  }
+  .feature-home-03 .feature-item-left {
+    height: 509px;
+  }
+  .feature-home-03
+    .feature-item-left
+    .feature-item-top
+    .feature-top-image
+    .absolute-content
+    span {
+    line-height: 60px;
+  }
+}
+@media only screen and (max-width: 991.98px) {
+  .search-popup .search-form {
+    min-width: 80%;
+  }
+  .responsive-mobile-menu .navbar-toggler .toggle-icon {
+    height: 2px;
+    width: 30px;
+    background-color: #000;
+    display: flex;
+    flex-direction: column;
+    margin: 6px 0;
+    transition: all 0.3s ease-in;
+    position: relative;
+  }
+  .indurance-nav-right {
+    width: auto;
+    height: 100%;
+    background-color: transparent;
+    padding-left: 25px;
+    padding-top: 17px;
+  }
+  .indurance-nav-right:before {
+    background-color: transparent;
+  }
+  h1.title {
+    font-size: 48px;
+  }
+  h2.title {
+    font-size: 36px;
+  }
+  h3.title {
+    font-size: 30px;
+  }
+  h4.title {
+    font-size: 24px;
+  }
+  h5.title {
+    font-size: 20px;
+  }
+  h6.title {
+    font-size: 16px;
+  }
+  .home-01-banner .home-01-banner-content {
+    padding: 120px 0;
+  }
+  .home-01-banner span {
+    font-size: 36px;
+  }
+  .home-01-banner h5.title {
+    margin: 20px 0 30px;
+  }
+  .template-btn {
+    font-size: 14px;
+    padding: 15px 20px;
+  }
+  .features-section {
+    margin-top: 0;
+    padding-top: 90px;
+  }
+  .padding-120 {
+    padding: 90px 0;
+  }
+  .padding-top-120 {
+    padding-top: 90px;
+  }
+  .padding-bottom-120 {
+    padding-bottom: 90px;
+  }
+  .about-section img {
+    display: none;
+  }
+  .padding-bottom-80 {
+    padding-bottom: 50px;
+  }
+  .quote-section .indurance-item-05 {
+    margin-bottom: 30px;
+  }
+  .cta-section {
+    text-align: center;
+  }
+  .header-home-02 .navbar-area.nav-style-02 {
+    background-color: var(--main-color-one);
+  }
+  .header-home-02
+    .navbar-area.nav-style-02
+    .nav-container
+    .navbar-collapse
+    .navbar-nav
+    li:hover
+    a {
+    color: #fff;
+  }
+  .home-02-banner .home-01-banner-content {
+    padding: 110px 0;
+  }
+  .feature-home-02 {
+    background-color: #f2f2f2;
+    padding-bottom: 60px;
+  }
+  .services-home-02 .services-title {
+    margin-bottom: 40px;
+  }
+  .home-03-banner .home-03-banner-content {
+    padding: 350px 0 150px;
+  }
+  .feature-home-03 .feature-item-left {
+    height: auto;
+  }
+  .feature-home-03
+    .feature-item-left
+    .feature-item-top
+    .feature-top-image
+    .absolute-content
+    span {
+    line-height: 125px;
+  }
+  .about-home-03 .about-right .about-image img {
+    display: block;
+    width: 100%;
+  }
+  .about-home-03 .about-right .signature-part {
+    display: none;
+  }
+  .projects-home-03 {
+    background: no-repeat top center/100% 50%;
+  }
+  .projects-home-03:before {
+    height: 50%;
+  }
+  .header-home-03 .navbar-area.nav-style-02 .nav-container {
+    padding-left: 30px;
+  }
+  .service-detail-area .service-widget-area {
+    margin-top: 40px;
+  }
+  .project-detail-area .project-widget-area {
+    margin-top: 40px;
+  }
+  .contact-area .contact-widget-area {
+    margin-top: 40px;
+  }
+  .indurance-blog-pagination {
+    margin-top: 40px;
+  }
+  .blog-single-area .sidebar {
+    margin-top: 60px;
+  }
+  .cta-section .cta-content h4.title {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+  .header-area .logo-area {
+    margin-bottom: 20px;
+  }
+  .header-area .logo-area img {
+    width: auto;
+    margin: auto;
+  }
+  .header-area .info-bottom-right {
+    float: none;
+    justify-content: center;
+  }
+  .indurance-feature-item:before {
+    border-bottom: 100px solid var(--main-color-one);
+    border-left: 100px solid transparent;
+  }
+  .indurance-feature-item:hover:before {
+    border-bottom: 150px solid var(--main-color-one);
+    border-left: 150px solid transparent;
+  }
+  .indurance-feature-item .item-01-content {
+    left: 20px;
+    bottom: 20px;
+  }
+  .indurance-feature-item .item-01-content h5.title {
+    width: 100%;
+  }
+  .indurance-item-03 {
+    display: inherit;
+  }
+  .videos-section:before {
+    width: 100%;
+    transform: skew(0deg);
+    right: 0;
+  }
+  .indurance-form-01 {
+    margin-top: 30px;
+  }
+  .indurance-item-05 .item-05-image {
+    height: 230px;
+  }
+  .footer-area .logo-area {
+    margin-bottom: 20px;
+  }
+  .footer-area .logo-area img {
+    width: auto;
+    margin: auto;
+  }
+  .footer-area .info-bottom-right {
+    float: none;
+    justify-content: center;
+  }
+  .about-home-02 .nav-pills a {
+    margin-bottom: 30px;
+  }
+  .about-home-02 .nav-pills .tab-list-icon {
+    display: none;
+  }
+  .header-home-03 .indurance-nav-right {
+    width: 30%;
+  }
+  .indurance-form-01 h5.title {
+    font-size: 24px;
+  }
+  .header-area .info-bottom-right,
+  .footer-area .info-bottom-right {
+    float: none;
+    justify-content: start;
+  }
+  .header-area .info-bottom-right .info-items-flex {
+    display: none;
+  }
+  .header-area .logo-area {
+    margin-bottom: 0;
+  }
+  .header-area .info-bottom-right .icon-part {
+    margin-top: 15px;
+  }
+  .cta-section .cta-button {
+    text-align: center;
+  }
+  .header-home-03 .navbar-area.nav-style-02 .nav-container:after {
+    width: 100%;
+  }
+  .header-home-03 .indurance-nav-right {
+    width: 30%;
+    background-color: var(--main-color-one);
+    text-align: center;
+    height: 80px;
+  }
+}
+@media only screen and (max-width: 767.98px) {
+  .header-area .info-bar-top {
+    text-align: center;
+  }
+  .header-area .info-top-flex {
+    display: inherit;
+  }
+  .header-area .top-link {
+    float: none;
+    margin-top: 10px;
+  }
+  .header-area .logo-area img {
+    width: auto;
+  }
+  .header-area .call-us-part,
+  .header-area .mail-part {
+    display: none;
+  }
+  .header-area .icon-part {
+    margin-top: 10px;
+  }
+  .about-section .tab-content {
+    margin-top: 30px;
+  }
+  .videos-section:before {
+    right: 0;
+    width: 100%;
+    transform: skew(0);
+  }
+  .videos-section .video-content {
+    margin-top: 50px;
+  }
+  .indurance-about-item-02 {
+    margin-bottom: 30px;
+  }
+  .footer-area .info-bar-bottom .info-bottom-right {
+    display: inherit;
+    float: none;
+  }
+  .footer-area .info-bar-bottom .info-bottom-right .call-us-part,
+  .footer-area .info-bar-bottom .info-bottom-right .mail-part,
+  .footer-area .info-bar-bottom .info-bottom-right .office-time-part {
+    margin-top: 30px;
+  }
+  .footer-area .logo-area img {
+    width: auto;
+  }
+  .footer-area .footer-copyright-area .copyright-left {
+    text-align: center;
+  }
+  .footer-area .footer-copyright-area .copyright-right {
+    text-align: center;
+    margin-top: 10px;
+  }
+  .home-03-banner .home-03-banner-content {
+    padding: 260px 0 120px;
+  }
+  .cta-section .cta-button {
+    text-align: center;
+  }
+  .about-home-03 .about-right,
+  .indurance-feature-item,
+  .indurance-about-item-02,
+  .indurance-form-01 {
+    width: 100% !important;
+  }
+  .indurance-feature-item img,
+  .indurance-about-item-02 img,
+  .indurance-form-01 img {
+    width: 100%;
+  }
+  .section-title .title,
+  .section-title .title span {
+    font-size: 36px !important;
+    line-height: 46px !important;
+  }
+  .home-03-banner span {
+    font-size: 36px;
+  }
+  .about-section .nav-pills .nav-link {
+    width: 100% !important;
+  }
+  .about-section .nav-pills a:before {
+    display: none;
+  }
+  .header-area .info-bottom-right .info-items-flex {
+    display: none;
+  }
+  .header-area .logo-area {
+    margin-bottom: 0;
+  }
+  .header-area .info-bottom-right .icon-part {
+    margin-top: 15px;
+  }
+  .cta-section .cta-button {
+    text-align: center;
+  }
+  .header-home-03 .navbar-area.nav-style-02 .nav-container:after {
+    width: 100%;
+  }
+  .header-home-03 .indurance-nav-right {
+    width: 30%;
+    background-color: var(--main-color-one);
+    text-align: center;
+    height: 80px;
+  }
+}
+@media only screen and (min-width: 576px) and (max-width: 767.98px) {
+  .indurance-feature-item,
+  .indurance-about-item-02,
+  .indurance-form-01 {
+    width: 70%;
+    margin: 0 auto 30px;
+  }
+  .about-section .nav-pills .nav-link {
+    width: 50%;
+  }
+  .about-home-02 .nav-pills a {
+    width: 80% !important;
+    margin-bottom: 30px;
+  }
+  .header-home-03 .indurance-nav-right {
+    width: 36%;
+  }
+  .header-home-03 .navbar-area.nav-style-02 .nav-container {
+    width: 88%;
+  }
+  .about-home-03 .about-right {
+    width: 70%;
+    margin: 30px auto 0;
+  }
+  .blog-area .indurance-form-01 {
+    width: 100%;
+  }
+  .home-01-banner .title,
+  .home-02-banner .title,
+  .home-03-banner .title {
+    font-size: 54px;
+    line-height: 66px;
+  }
+  .home-01-banner .subtitle,
+  .home-02-banner .subtitle,
+  .home-03-banner .subtitle {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .indurance-single-counter .title {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .section-title .title-paragraph {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .section-title .subtitle {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .about-home-03 .about-left .title {
+    font-size: 36px;
+    line-height: 46px;
+  }
+}
+@media only screen and (max-width: 575.98px) {
+  .cta-section .cta-content h4.title {
+    line-height: 40px;
+  }
+  .cta-section .cta-button .template-btn {
+    margin-top: 20px;
+  }
+  .about-home-02 .nav-pills a {
+    width: 100% !important;
+    margin-bottom: 30px;
+  }
+  .header-home-03 .navbar-area.nav-style-02 .nav-container {
+    width: 100%;
+  }
+  .header-home-03 .indurance-nav-right {
+    width: 47%;
+  }
+  .feature-home-03
+    .feature-item-left
+    .feature-item-top
+    .feature-top-image
+    .absolute-content
+    span {
+    line-height: 98px;
+  }
+  .about-home-03 .about-right {
+    margin: 30px auto 0;
+  }
+  .indurance-project-tab ul li {
+    margin: 0 10px 10px;
+  }
+  .indurance-feature-item .feature-content span {
+    font-size: 12px;
+  }
+  h5.title {
+    font-size: 20px;
+  }
+  .indurance-feature-item .feature-content {
+    bottom: 60px;
+  }
+  .about-section .nav-pills a:before {
+    position: inherit;
+  }
+  h6.title {
+    font-size: 18px;
+  }
+  .home-03-banner span {
+    font-size: 30px;
+  }
+  .home-02-banner span {
+    font-size: 30px;
+  }
+  .home-01-banner span {
+    font-size: 30px;
+  }
+  .indurance-project-tab ul li {
+    font-weight: 500;
+  }
+  h2.title {
+    font-size: 30px;
+  }
+  .home-01-banner .title,
+  .home-02-banner .title,
+  .home-03-banner .title {
+    font-size: 54px;
+    line-height: 66px;
+  }
+  .home-01-banner .subtitle,
+  .home-02-banner .subtitle,
+  .home-03-banner .subtitle {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .indurance-single-counter .title {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  .section-title .title-paragraph {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .section-title .subtitle {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .about-home-03 .about-left .title,
+  .services-home-02 .services-title .title {
+    font-size: 36px;
+    line-height: 46px;
+  }
+}
+@media only screen and (max-width: 414px) {
+  .blog-area .indurance-news-item .news-content .title,
+  .blog-single-area .indurance-news-item .news-content h5.title {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .blog-single-area .single-comment-list .list-content .title {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .home-01-banner .title,
+  .home-02-banner .title,
+  .home-03-banner .title {
+    font-size: 50px;
+    line-height: 60px;
+  }
+  .home-01-banner p,
+  .home-02-banner p,
+  .home-03-banner p {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .about-home-03 .about-left .title,
+  .services-home-02 .services-title .title {
+    font-size: 32px;
+    line-height: 42px;
+  }
+}
+@media only screen and (max-width: 384px) {
+  .blog-single-area .single-comment-list-02 {
+    margin-left: 40px;
+  }
+  .section-title .title,
+  .section-title .title span {
+    font-size: 30px !important;
+    line-height: 40px !important;
+  }
+  .header-home-03 .indurance-nav-right {
+    padding-right: 20px;
+    width: 54%;
+  }
+  .header-area .logo-area img {
+    max-width: 180px;
+  }
+  .header-area .info-bottom-right .icon-part {
+    margin-top: 8px;
+  }
+  .videos-section .section-title-inner .title {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .header-home-03 .indurance-nav-right {
+    background-color: transparent;
+    padding: 0;
+  }
+  .header-home-03 .indurance-nav-right a {
+    display: inline-block;
+    background-color: var(--main-color-one);
+    padding: 10px 20px;
+    margin-top: 17px;
+    border-radius: 2px;
+  }
+  .indurance-project-tab ul li {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 600;
+  }
+  .service-widget .service-title .title {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 600;
+  }
+  .indurance-service-item .service-content .title {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .about-home-03 .about-left .title,
+  .services-home-02 .services-title .title {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .breadcrumb-area h2.title {
+    font-size: 36px;
+    line-height: 46px;
+  }
+}
+@media only screen and (max-width: 360px) {
+  .header-area .nav-right-content:after,
+  .header-area .nav-right-content:before {
+    display: none;
+  }
+  .info-bar-bottom .icon-part li i {
+    font-size: 18px;
+    height: 25px;
+    width: 25px;
+    line-height: 25px;
+  }
+  .header-home-03 .indurance-nav-right {
+    width: 54%;
+    padding: 0;
+  }
+  .blog-area .indurance-news-item .news-content .title,
+  .blog-single-area .indurance-news-item .news-content h5.title {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .header-home-03 .indurance-nav-right a {
+    padding: 10px 15px;
+    margin-right: 10px;
+  }
+  .header-area .logo-area img {
+    max-width: 160px;
+  }
+  .partners-section .single-partners-slide img {
+    padding: 0 10px;
+  }
+}
+@media only screen and (max-width: 330px) {
+  .cta-section .cta-content h4.title {
+    font-size: 28px;
+    line-height: 38px !important;
+  }
+}
